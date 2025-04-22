@@ -1,7 +1,7 @@
 {
   "name": "graduate-assignment-git-practice",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a Practice Set assignment, where we can learn about using Git and GitHub to initialize version control and connect a local project to a remote repository.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
